@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad349e4-dd55-446c-9827-42c55c149961" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" afterPath="$PROJECT_DIR$/.circleci/config.yml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="90">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -304,7 +303,7 @@
       <workItem from="1536248127656" duration="12655000" />
       <workItem from="1536589493571" duration="15018000" />
       <workItem from="1537192070702" duration="12000" />
-      <workItem from="1537192645100" duration="6517000" />
+      <workItem from="1537192645100" duration="6665000" />
     </task>
     <servers />
   </component>
@@ -335,7 +334,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40079000" />
+    <option name="totallyTimeSpent" value="40227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -495,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="8" />
           <folding />
         </state>
       </provider>
