@@ -3,7 +3,14 @@
 # Check https://circleci.com/docs/2.0/language-ruby/#sample-configuration for more details
 #
 # Steps for config yaml file
-
+working_directory: ~/CircleCI_Test
+  docker:
+    - image: circleci/ruby:2.5.1-node-browsers-legacy
+      environment:
+        BUNDLE_JOBS: 4
+        BUNDLE_RETRY: 3
+        BUNDLE_PATH: vendor/bundle
+        PGHOST: 127.0.0.1
 version: 2.0 #Start with Circle CI version.
 jobs:
   build:
