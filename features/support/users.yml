@@ -1,0 +1,31 @@
+User1:
+  email: usertest002@sink.sendgrid.net
+  password: Password1@
+
+User2:
+  email: usertest003@sink.sendgrid.net
+  password: Password1@
+
+User3:
+  email: usertest004@sink.sendgrid.net
+  password: Password1@
+
+User4:
+  email: testa1@sink.sendgrid.net
+  password: Password1@
+
+User5:
+    email: testa2@sink.sendgrid.net
+    password: Password1@
+
+Admin:
+    email: usertest005@sink.sendgrid.net
+    password: Password1@
+
+Facebook_User:
+    email: hectormoro02@gmail.com
+    password: titaniumsolutions2018
+
+New_1:
+    email: gilberto.aspros+0001@gmail.com
+    password: Password1.

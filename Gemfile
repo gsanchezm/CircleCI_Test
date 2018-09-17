@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'appium_lib'
+gem 'cucumber'
+gem 'data_magic'
+gem 'page-object', '~> 2.0'
+gem 'rake'
+gem 'report_builder', '~> 1.4'
+gem 'rspec'
+gem 'selenium-webdriver','~> 3.5'
+gem 'watir','~> 6.8'
